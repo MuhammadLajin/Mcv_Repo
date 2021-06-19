@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "McvAPI", "McvAPI.csproj", "{30BB421B-90F8-4066-9C35-427EFF6B7FAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30BB421B-90F8-4066-9C35-427EFF6B7FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BB421B-90F8-4066-9C35-427EFF6B7FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BB421B-90F8-4066-9C35-427EFF6B7FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BB421B-90F8-4066-9C35-427EFF6B7FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E21E770-7112-4DAC-AB83-91D0E4E58F6A}
+	EndGlobalSection
+EndGlobal
